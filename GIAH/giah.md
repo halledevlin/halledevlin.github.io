@@ -9,6 +9,8 @@ God is a Horseman
 
 <img alt="mare and foal grazing on hillside" src="images/cover_hill-curly_overlay.jpg" height="600px"/>
 
+horse horse horse
+
 Synopsis
 --------
 
