@@ -17,7 +17,7 @@ In my current book project, *Looking for Adventure*, the asteroid known as 279 T
 - [How Big Is It, and How Hard Does It Pull?](#Size)
 
 
-![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](images/InnerSolarSystem-en_from_wikipedia.png)
+![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
 
 <h3><a name="Distance">How Far Out Is <em>Out There?</em></a></h3>
 	
@@ -33,7 +33,7 @@ What is truly unique about the D-type asteroids is that their composition is pos
 
 One advantage of this undifferentiated carbon-silicate composition (at least for speculatvie story-telling) is the potential for impact-formation of unusual materials (such as the fictional "calamatite" mined in Looking for Adventure).  Silicate materials with very different properties (such as structure or density) than normally found on Earth have been found in meteorite craters, which opens up all kinds of interesting possibilities for what we might eventually find, *out there,* where asteroids collide at relative speeds of thousands of kilometers a second, with no atmosphere to slow them down.  Though these collisions are far more rare than Star Trek or Star Wars may lead us to believe, they can still pack quite a wallop.  (See my calculations for the astronomical stresses and pressures that might be involved in such a collision [here](/static/ Comet_Pull_and_other_Looking_for_Adventure_calculations.xlsx.).)  It also opens up possibilities for interesting scenery--what would these materials, should they be shown at the surface, *look* like?
 
-![Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale](images/Asteroidsscale_NASA_pic.jpg)
+![Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale](../images/Asteroidsscale_NASA_pic.jpg)
 
 <h3><a name="Size">How Big Is It, and How Hard Does It Pull?</a></h3>
 

@@ -20,9 +20,9 @@ The following notes are important to getting the most out of these meditations:
     quoted in a particular "meditation" are noted, either in the text or under
     the title.
 
-[Meditation on John 4:  The Woman at the Well](MED/john_4.md)
-[Meditation on II Kings 22 - 23:  King Josiah](MED/kings_22.md)
-[Meditation on Hebrews 8:  Writing on My Heart](MED/hebrews_8.md)
+* [Meditation on John 4:  The Woman at the Well](john_4.html)
+* [Meditation on II Kings 22 - 23:  King Josiah](kings_22.html)
+* [Meditation on Hebrews 8:  Writing on My Heart](hebrews_8.html)
  
    
 

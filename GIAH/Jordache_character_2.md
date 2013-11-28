@@ -4,7 +4,7 @@ menu-position: 21
 
 God is a Horseman:  Character Sketches
 
-![Image of evening darkening wooded hill under sky lit by the sunset's afterglow](/images/jordache_character_1_v.jpg)
+![Image of evening darkening wooded hill under sky lit by the sunset's afterglow](../images/jordache_character_1_v.jpg)
 
 Jordache:  A Purpose-Driven Horse
 
@@ -12,7 +12,7 @@ Today, I stayed late at work and it's pitch dark by the time I head out to feed 
 
 He steps out of the light as I come nearer, his aging, aching bones making his movements slow and deliberate.  A moment later, a low-throated nicker in front of my face startles me.  The broad white star on Jordache's forehead looms out of the nearby darkness and he pushes his graying head into me, eager for my company.  And, more to the point, eager for the horse feed I'm bringing.
 
-![Montage of pictures from Jordache's life](/images/jordache_montage_3.tif)
+![Montage of pictures from Jordache's life](../images/jordache_montage_3.tif)
 
 Jordache has been every kind of horse--show horse, backyard playmate, barn clown, friend.   Over the years, he generously carried children who knew nothing about how to stay on his back, notching back his usual high-strung energy to plod at their speed.  When I got on his back, he always shifted gears to be the spirited--but--willing riding horse I wanted.   Now retired, he is still the most interesting personality in the barnyard, wreaking havoc whenever possible and always nosing up to me for a good belly rub or a treat.
 
@@ -24,4 +24,4 @@ If God is the kind of Horseman I think he is, I wonder if he doesn't just chuckl
 
 God knows that the very reasons that I love my relationship with Him are the ropes that he can yank on to put me back in line--just like my yanks on Jordache's halter remind him who should really be in the lead.  In the end, it is that comfort, that utter lack of fear and worry that I give Jordache--and that God gives me--that makes him stay after the halter comes off, to rub his sweaty head on my shoulder and enjoy every selfish moment with me he can get.
 
-![shadow-image of horse reaching out to touch person with nose](/images/jordache_montage_3.tif)
+![shadow-image of horse reaching out to touch person with nose](../images/jordache_montage_3.tif)
