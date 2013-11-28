@@ -21,7 +21,7 @@ Hmm.
 
 <img alt="mare and foal grazing on hillside" src="images/cover_hill-curly_overlay.jpg" height="600px"/>
 
-## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](giah.html)
+## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](GIAH/giah.html)
 
 *God is a Horseman* is an inspirational picture book about the unique relationship between horse and horseman.  And, it is an introduction to how that exquisite bond mirrors our own bond with God.
 

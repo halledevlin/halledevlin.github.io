@@ -1,12 +1,12 @@
-title: God is a Horseman:  Character Sketches
-menu-position: 21
 ---
-
-God is a Horseman:  Character Sketches
+title: God is a Horseman - Character Sketches
+layout: default
+---
 
 ![Image of evening darkening wooded hill under sky lit by the sunset's afterglow](../images/jordache_character_1_v.jpg)
 
 Jordache:  A Purpose-Driven Horse
+=================================
 
 Today, I stayed late at work and it's pitch dark by the time I head out to feed my horses.  Feeling the path with my feet more than seeing it, I see a dim equine form ahead, picked out by the beam of the barn's night light shining through an open door.  My old chestnut friend, Jordache, is waiting for me.  
 
