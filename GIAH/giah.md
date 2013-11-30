@@ -14,7 +14,8 @@ horse horse horse
 Synopsis
 --------
 
-God is a Horseman is an introduction to the unique relationship between horse and horseman.  And, it is an introduction to how that exquisite bond mirrors the bond that God wants to share with us.  Filled with richly described vignettes portraying colorful horse personalities, and illustrated with pictures of horses in beautiful rural settings, *God is a Horseman* describes how humans can teach horses to trust and willingly serve them, and how can God teach us to love and serve him in the same ways.
+God is a Horseman is an introduction to the unique relationship between horse and horseman.  And, it is an introduction to how that exquisite bond mirrors the bond that God wants to share with us.  
+Filled with richly described vignettes portraying colorful horse personalities, and illustrated with pictures of horses in beautiful rural settings, *God is a Horseman* describes how humans can teach horses to trust and willingly serve them, and how can God teach us to love and serve him in the same ways.
 
 Related pages:
 --------------
