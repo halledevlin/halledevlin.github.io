@@ -1,0 +1,17 @@
+To view files locally:
+jekyll serve
+
+After making a new file:
+git add <filename>
+
+To push changes up to internet:
+git commit -a
+
+(then enter 
+
+To work on website: 
+
+Once in "halledevlin.github.io" subdirectory within "writings":
+To sync files that have been changed by gobie:  "git pull" at directory prompt
+To compile changes I made on this computer:  "git commit -a"  then "git push" at directory promt
+--in VIM, hit "i", then type a description of what the change was, then hit "Esc" button, then ":wq" then enter to get out.
