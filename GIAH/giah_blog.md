@@ -7,7 +7,7 @@ navrank: 02
 The God is a Horseman Blog
 ==========================
 
-<img style="margin: 10px; float: left;" alt="God is a Horseman cover image; mare and foal grazing on hillside" src="../images/cover_hill-curly_overlay.jpg" width="300px" height="300px"/>
+<img style="margin: 10px; float: left;" alt="God is a Horseman cover image; mare and foal grazing on hillside" src="../images/P1010530.JPG" width="300px" height="300px"/>
 
 When God created Horse, he created a very special animal.  And when he gave Horse to Human, he gave us a chance to experience one of the most incredible relationships a person can have.
 
@@ -17,5 +17,6 @@ From either perspective, it's a wonderful ride.  I invite you to join with me, m
 
 <h1 class='nofloat'>Blog Posts</h1>
 
+I also invite you to check out God is a Horseman's Facebook page at www.facebook.com/GodisaHorseman
 
 

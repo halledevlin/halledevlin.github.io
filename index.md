@@ -8,14 +8,16 @@ navrank: 01
 Christie writes in a wide range of genres, from the inspirational to the fantastic.  Here's what she's working on these days:
 
 
-## [The God is a Horseman Blog: About Horses and Horsemen, and Horsemen and God](GIAH/giah_blog.html)
+<img style="margin: 10px; float: left;" alt="God is a Horseman cover image; mare and foal grazing on hillside" src="../images/cover_hill-curly_overlay.jpg" width="300px" height="300px"/>
 
-The God is a Horseman blog is an exploration of the unique relationship between horse and horseman.  And, it is an introduction to how that exquisite bond mirrors our own bond with God.  Illustrated with beautiful pictures of horses, this blog is written for anyone who loves horses and thinks that love might lead them to something higher.
+## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](GIAH/giah_blog.html)
+
+> "Curly is looking at me.  His thick, gracefully curving neck is drawn up over his well-muscled russet shoulders.  His bountiful black mane froths downward in wild, matted locks behind his chiseled head, and his bright white star is half-hidden by the forelock draped over his eyes.   He's facing me, broad chest pointed right at me as if ready to run me down, his large, liquid eyes trained on me intently.  I'm pretty sure he's wondering why I've put him in this fenced paddock, separate from all the other horses, and what I'm going to do to him...."
 
 
-[Farthest Asteroid From The Sun](LFA/LFA.md) and other speculative topics....
+[Farthest Asteroid From The Sun](LFA/Thule_for_webpage.md)
 --------------------------------------------
-Asteroid 276 Thule, real-life space travel calculations, and more for the space science and sci-fi enthusiast... and the supporting research for Christie's current sci-fi writing projects.
+An article about asteroid 276 Thule, the farthest main-belt asteroid from the Sun, including calculations of its gravity, how fast you'd have to go to get there, and more for the space science enthusiast... and the supporting research for Christie's current sci-fi book project.
 
 
 [Meditations on The Bible](MED/meditations2.md)
