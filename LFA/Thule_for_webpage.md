@@ -1,6 +1,7 @@
 ---
 title: 279 Thule
 layout: default
+navrank: 03
 ---
 
 279 Thule\:  Farthest Asteroid from the Sun

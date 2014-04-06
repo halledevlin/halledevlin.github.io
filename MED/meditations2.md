@@ -1,7 +1,7 @@
 ---
 title: Meditations
 layout: default
-navrank:  30
+navrank:  04
 ---
 
 Meditations on the Bible
