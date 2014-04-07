@@ -1,6 +1,6 @@
 ---
 title:  7-1-13  One-Eyed Horse
-layout: post
+layout: dateless_post
 ---
 
 God is a Horseman Blog #2:  A One-Eyed Horse
