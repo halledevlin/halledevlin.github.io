@@ -7,7 +7,7 @@ navrank: 02
 God is a Horseman
 =================
 
-<img style="margin: 10px; float: left;" alt="God is a Horseman cover image; mare and foal grazing on hillside" src="../images/P1010530.JPG" width="300px" height="300px"/>
+<img style="margin: 10px; float: left;" alt="God is a Horseman cover image; mare and foal grazing on hillside" src="../images/kawea_and_bey_star_up_da_hill.jpg" width="300px" height="300px"/>
 
 When God created Horse, he created a very special animal.  And when he gave Horse to Human, he gave us a chance to experience one of the most incredible relationships a person can have.
 
