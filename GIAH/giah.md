@@ -19,4 +19,6 @@ From either perspective, it's a wonderful ride.  I invite you to join with me, m
 
 I also invite you to check out God is a Horseman's Facebook page at www.facebook.com/GodisaHorseman
 
-
+(giah_1-2.html)[#1: Jordache -- A Purpose-Driven Horse]
+(giah_2_2.html)[#2: A One-Eyed Horse]
+(giah_3_gone.html)[#3: Gone]
