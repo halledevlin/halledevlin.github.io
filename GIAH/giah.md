@@ -4,7 +4,6 @@ layout: dateless_post
 navrank: 02
 ---
 
-God is a Horseman:  
 =================
 
 *Parables, for the Spirit of the Horse and the Soul of the Horseman*
@@ -22,3 +21,4 @@ From either perspective, it's a wonderful ride.  In this series of short "horse 
 (giah_3_gone.html)[#3: Gone]
 
 I also invite you to check out *God is a Horseman's* Facebook page at www.facebook.com/GodisaHorseman
+

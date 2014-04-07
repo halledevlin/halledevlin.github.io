@@ -1,9 +1,7 @@
 ---
 title:  6-1-13  Jordache
-layout: post
+layout: dateless_post
 ---
-
-[Image of evening darkening wooded hill under sky lit by the sunset's afterglow](../images/jordache_character_1_v.jpg)
 
 God is a Horseman Blog #1:  Jordache -- A Purpose-Driven Horse
 ---------------------------------------
@@ -13,7 +11,7 @@ Today I stayed late at work and it's pitch dark by the time I head out to feed m
 
 He steps out of the light as I come nearer, his aging, aching bones making his movements slow and deliberate.  A moment later, a low-throated nicker from the darkness in front of my face startles me.  The broad white star on Jordache's forehead looms up and he pushes his graying head into me, eager for my company.  And, more to the point, eager for his dinner, heavy in the buckets in my hands.
 
-[Montage of pictures from Jordache's life](../images/jordache_montage_3.jpeg)
+![Montage of pictures from Jordache's life](../images/jordache_montage_3.jpg)
 
 Jordache was my first horse, and in the thirty years we've been together--since I was ten and he was a yearnling--he has been every kind of horse I needed him to be:  show horse, backyard playmate, barn clown, friend.   He generously carried children who knew nothing about how to stay on his back, notching back his usual high-strung energy to plod at their speed.  Yet when I got on his back, he always shifted gears to be the spirited-but-willing riding horse I wanted.   Now retired, he is still the most interesting personality in the barnyard, wreaking havoc whenever possible and always nosing up to me for a good belly rub or a treat.
 

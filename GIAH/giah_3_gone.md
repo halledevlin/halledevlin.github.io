@@ -1,6 +1,6 @@
 ---
 title: 7-25-13  Gone
-layout: post
+layout: dateless_post
 ---
 
 The God is a Horseman Blog #2:  Gone
