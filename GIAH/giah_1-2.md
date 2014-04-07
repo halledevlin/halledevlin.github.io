@@ -3,7 +3,7 @@ title:  6-1-13  Jordache
 layout: post
 ---
 
-[Image of evening darkening wooded hill under sky lit by the sunset's afterglow](jordache_character_1_v.jpg)
+[Image of evening darkening wooded hill under sky lit by the sunset's afterglow](../images/jordache_character_1_v.jpg)
 
 God is a Horseman Blog #1:  Jordache -- A Purpose-Driven Horse
 ---------------------------------------

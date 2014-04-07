@@ -5,7 +5,7 @@ layout: post
 
 God is a Horseman Blog #2:  A One-Eyed Horse
 ----------------------
-<img style="margin: 10px; float: right;" alt="palamino horse in pasture" src="./giah_blog_1.jpg" width="300" height="300" />
+<img style="margin: 10px; float: right;" alt="palamino horse in pasture" src="../images/giah_blog_1.jpg" width="300" height="300" />
 
 <p>
 </p>

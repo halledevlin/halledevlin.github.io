@@ -6,7 +6,7 @@ layout: post
 The God is a Horseman Blog #2:  Gone
 -----------------------------
 
-<img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="jordachegravesun.JPG" width="300" height="300" />
+<img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="../images/jordachegravesun.JPG" width="300" height="300" />
 
 
 Last week, my horse Jordache died.
