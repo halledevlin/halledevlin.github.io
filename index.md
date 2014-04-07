@@ -22,7 +22,7 @@ Christie writes in a wide range of genres, from the inspirational to the fantast
 A short article about the science behind Christie's current sci-fi book project.... including calculations estimating its gravity, how fast you'd have to go to get there, and more for the space science enthusiast.
 
 
-[Meditations on The Bible](MED/meditations2.md)
+<h2 class="nofloat"><a href="MED/meditations2.md">Meditations on The Bible</a></h2>
 ------------------------------------------
 Short devotional conversations with God and the book I understand him through.
 
