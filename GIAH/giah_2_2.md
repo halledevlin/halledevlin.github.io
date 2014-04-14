@@ -2,12 +2,10 @@
 title:  One-Eyed Horse
 layout: dateless_post
 ---
-<h3>God is a Horseman #1</h3>
+<h3>God is a Horseman #2:</h3>
 <p class="nofloat"> </p>
-<h4>Jordache: A Purpose-Driven Horse</h4>
+<h4><i>A One-Eyed Horse</i></h4>
 
-God is a Horseman Blog #2:  A One-Eyed Horse
-----------------------
 <img style="margin: 10px; float: right;" alt="palamino horse in pasture" src="../images/giah_blog_1.jpg" width="300" height="300" />
 
 <p>
@@ -38,10 +36,12 @@ God sent a friend to her, she says, the evening she was planning to kill herself
 
 <iframe width="640" height="390" src="//www.youtube.com/embed/YAhSL9sitZ0" frameborder="0" allowfullscreen></iframe>
 
+(Joanna is the dancer in the front, just to the right of the central aisle--the only one seated.)
+
 The day I finally loaded Logan into my trailer, took him over, and walked him into his new pasture, I felt like Logan was saying the same thing to me that my friend Joanna had said to God:  *I might not be much anymore, but what I have left, I give to you.  Lead me--I'll follow as best I can.*    
 
 Thank you, God, that no matter how broken we are, you can still find use for the pieces.
 
 "God once said, 'Let the light shine out of the darkness!' This is the same God who made his light shine in our hearts by letting us know the glory of God that is in the face of Christ. 7 We have this treasure from God, but we are like clay jars that hold the treasure. This shows that the great power is from God, not from us.  8 We have troubles all around us, but we are not defeated. We do not know what to do, but we do not give up the hope of living.  9 We are persecuted, but God does not leave us. We are hurt sometimes, but we are not destroyed.  10 We carry the death of Jesus in our own bodies so that the life of Jesus can also be seen in our bodies."--2 Cor. 4:6-12 (NCV?)
 
-<sup>1</sup><a name="footnote">Some horses, however, have been helped to overcome this handicap; see http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/ for one example.
+<a name="footnote"><sup>1</sup> Some horses have been helped to overcome this handicap; see http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/ for one example.
