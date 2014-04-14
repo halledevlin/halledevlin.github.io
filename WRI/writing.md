@@ -16,7 +16,6 @@ General Writing and Science Links
 other writers
 =============
 
-- [Bum Scoop](http://www.klech.net/blog/)
 - [merriehaskell.com](http://www.merriehaskell.com/)
 - [on the road of rue & wormwood](http://fairmer.livejournal.com/)
 - [Story Bones - steve buchheit](http://storybones.blogspot.com/)

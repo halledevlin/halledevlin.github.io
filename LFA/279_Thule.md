@@ -22,7 +22,7 @@ So far out, we have no real pictures of it--none with any resolution, even with 
 
 <class="nofloat"><h3><a name="Distance">How Far Out Is <em>Out There?</em></a></h3>
 	
-279 Thule ("Thule" to its good friends--properly pronounced "thoo-lee", which I happily mangle by pronouncing as if it were originally an English word (which it isn't): "thool") is a real asteroid, one of the many in the wide asteroid belt that lies between Mars and Jupiter.  Thule is the farthest of the "main belt" asteroids from the Sun; the Hilda family of asteroids orbits in the "outer belt," between the main belt and Jupiter.  The Trojan asteroids lay a little further out, in and around Jupiter's own orbit.  Then there are the Centaurs, Neptune Trojans, and Trans-Neptunian objects which orbit even farther out than that--even outside the traditional boundary of our Solar System.  But, at a minimum distance of 488,000,000 km (around 300 million miles) from Earth--more than three times the distance from Earth to the Sun--Thule is still pretty far out.  At the space shuttle's top speed of around 28,000 km/hr (17,500 mph), it would take at least two years to get there.  (see more Earth-to-asteroid distance calculations [here](/static/ Comet_Pull_and_other_Looking_for_Adventure_calculations.xlsx.).)
+279 Thule ("Thule" to its good friends--properly pronounced "thoo-lee", which I happily mangle by pronouncing as if it were originally an English word (which it isn't): "thool") is a real asteroid, one of the many in the wide asteroid belt that lies between Mars and Jupiter.  Thule is the farthest of the "main belt" asteroids from the Sun; the Hilda family of asteroids orbits in the "outer belt," between the main belt and Jupiter.  The Trojan asteroids lay a little further out, in and around Jupiter's own orbit.  Then there are the Centaurs, Neptune Trojans, and Trans-Neptunian objects which orbit even farther out than that--even outside the traditional boundary of our Solar System.  But, at a minimum distance of 488,000,000 km (around 300 million miles) from Earth--more than three times the distance from Earth to the Sun--Thule is still pretty far out.  At the space shuttle's top speed of around 28,000 km/hr (17,500 mph), it would take at least two years to get there.  (see more Earth-to-asteroid distance calculations [here](/static/ Comet_Pull_and_other_Looking_for_Adventure_calculations.xlsx).)
 
 <h3><a name="Composition">What's It Made Of?</a></h3>
 
@@ -32,9 +32,13 @@ Thule, however, is further out even than most C-types, and is still more differe
 
 What is truly unique about the D-type asteroids is that their composition is possibly the closest of all Solar System bodies to the original planetary building blocks.  According to current planetary formation theory, after the Solar System's original, formless mass coalesced into a "pre-planetary disk" around the Sun, the material in the disk then condensed into stones, then asteroids, then planets.  Some of those asteroids, though, never became planets--these mostly reside in the asteroid belt.  The asteroids closer to the Sun--the "inner belt"--got a sort of heat-treatment, much like the rocky planets (Earth, Mars, Mercury, and Venus) that boiled off a lot of the organics, and even melted the rock and metal comprising them, allowing the metal to settle into the heart of the planet (or asteroid), leaving a hard, rocky surface covering a deep, metallic core.  Thule and the other D-types were too far away from the Sun to get such a heat treatment, and so probably better resemble the material form that all the bodies further in started from.  
 
-One advantage of this undifferentiated carbon-silicate composition (at least for speculative story-telling) is the potential for impact-formation of unusual materials (mining just such a (fictional) material is the reason my characters head out to Thule in my novel).  Silicate materials with very different properties (such as structure or density) than normally found on Earth have been found in meteorite craters, which opens up all kinds of interesting possibilities for what we might eventually find, *out there,* where asteroids collide at relative speeds of thousands of kilometers a second, with no atmosphere to slow them down.  Though these collisions are far more rare than the collision-dense asteroid fields portrayed in Star Trek or Star Wars may lead us to believe, they can still pack quite a wallop.  (See my calculations for the astronomical stresses and pressures that might be involved in such a collision [here](/static/ Comet_Pull_and_other_Looking_for_Adventure_calculations.xlsx.).)  It also opens up possibilities for interesting scenery--what would these materials, should they be shown at the surface, *look* like?
+One advantage of this undifferentiated carbon-silicate composition (at least for speculative story-telling) is the potential for impact-formation of unusual materials (mining just such a (fictional) material is the reason my characters head out to Thule in my novel).  Silicate materials with very different properties (such as structure or density) than normally found on Earth have been found in meteorite craters, which opens up all kinds of interesting possibilities for what we might eventually find, *out there,* where asteroids collide at relative speeds of thousands of kilometers a second, with no atmosphere to slow them down.  Though these collisions are far more rare than the collision-dense asteroid fields portrayed in Star Trek or Star Wars may lead us to believe, they can still pack quite a wallop.  (See my calculations for the astronomical stresses and pressures that might be involved in such a collision [here](Comet_Pull_and_other_Looking_for_Adventure_calculations.xlsx).)  It also opens up possibilities for interesting scenery--what would these materials, should they be shown at the surface, *look* like?
+
+<p class="nofloat"> </p>
 
 ![Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale](../images/Asteroidsscale_NASA_pic.jpg)
+
+<p class="nofloat"> </p>
 
 <class="nofloat"><h3><a name="Size">How Big Is It, and How Hard Does It Pull?</a></h3>
 
@@ -52,14 +56,14 @@ In the end, we read science fiction to go to places *out there,* places we could
 P.S.:  In case you're interested in finding out more about Thule or asteroids in general, here's a list of places where I found much of the above information, and more:
 
 <h4>279 Thule:</h4>
-- [Wikipedia's page on Thule}(http://en.wikipedia.org/wiki/279_Thule)
-- {Scientific Journal article on Thule] (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2008.13764.x/abstract;jsessionid=828F55B9D37217002B45C7FB20855CDB.d03t04)
-- http://adsabs.harvard.edu/full/1990RMxAA..21..585T
+- [Wikipedia's page on Thule](http://en.wikipedia.org/wiki/279_Thule)
+- [Scientific Journal article on Thule] (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2008.13764.x/abstract;jsessionid=828F55B9D37217002B45C7FB20855CDB.d03t04)
+- [http://adsabs.harvard.edu/full/1990RMxAA..21..585T](http://adsabs.harvard.edu/full/1990RMxAA..21..585T)
 - [And my favorite:  NASA/JPL's small-body database page for Thule](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=279)
 
 <h4>153 Hilda:</h4>
 - [Wikipedia's page on Hilda](http://en.wikipedia.org/wiki/153_Hilda)
-- http://en.wikipedia.org/wiki/Hilda_family
+- [http://en.wikipedia.org/wiki/Hilda_family](http://en.wikipedia.org/wiki/Hilda_family)
 
 <h4>Asteroids in General:</h4>
 - http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png
