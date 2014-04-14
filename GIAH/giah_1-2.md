@@ -3,8 +3,10 @@ title: Jordache
 layout: dateless_post
 ---
 
-God is a Horseman Blog #1:  Jordache -- A Purpose-Driven Horse
----------------------------------------
+<h3>God is a Horseman #1</h3>
+<p class="nofloat"> </p>
+<h4>Jordache: A Purpose-Driven Horse</h4>
+
 <img style="margin: 10px;" alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow." src="../images/jordache_character_1_v.jpg">
 
 Today I stayed late at work and it's pitch dark by the time I head out to feed my horses.  Feeling the path with my feet more than seeing it, I see a dim equine form ahead, picked out by the beam of the barn's night light shining through an open door.  My old chestnut friend, Jordache, is waiting for me.  
@@ -23,8 +25,7 @@ It makes me wonder, is this how it is between God and me?  Who is really "servin
 
 Whenever Jordache takes his little liberties with me, assuming my love and tolerance of even his most annoying antics, and my forgiveness for his old-man-grumpy stubbornness, I can't help but smile.  I love this horse, who has been my friend and companion for nearly every day of his long and waning life.  I can't forget all the times he's done what I asked even when it hurt.  When he trusted me and went forward even though every fiber in his prey-animal mind told him to turn and run from the tigers he thought were ahead.  When I was the first thing he came to for healing, and for Joy.
 
-If God is at all the kind of horseman I think he is, when the cantankerous, stubborn, but faithful person nickers to him, calling with the most personal, soul-drenched call their heart can make, he must fill with joy, and his eyes with tears, that he is loved by the one he's loved so long.  And feel that, despite the willfulness, he wants this horse to be beside him.  Always.
-
+If God is at all the kind of horseman I think he is, when the cantankerous, stubborn, but faithful person nickers to him, calling with the most personal, soul-drenched call their heart can make, he must fill with joy, and his eyes with tears, that he is loved by the one he's loved so long.  And feel that, despite the willfulness, he wants this horse beside him.  Always.
 
 
     The Lord is my shepherd;
@@ -34,19 +35,17 @@ If God is at all the kind of horseman I think he is, when the cantankerous, stub
     He gives me new strength.
     He leads me on paths that are right
 		for the good of his name.
-Even if I walk through a very dark valley,
-    I will not be afraid,
-because you are with me.
-    Your rod and your shepherd’s staff comfort me.
-You prepare a meal for me
-    in front of my enemies.
-You pour oil of blessing on my head;[a]
-    you fill my cup to overflowing.
-Surely your goodness and love will be with me
-    all my life,
-and I will live in the house of the Lord forever."
---Psalm 23 (NCV)
+    Even if I walk through a very dark valley,
+		I will not be afraid,
+    because you are with me.
+		Your rod and your shepherd’s staff comfort me.
+    You prepare a meal for me
+		in front of my enemies.
+    You pour oil of blessing on my head;[a]
+		you fill my cup to overflowing.
+    Surely your goodness and love will be with me
+		all my life,
+    and I will live in the house of the Lord forever.
+		--Psalm 23 (NCV)
 
-
-
-<img style="margin: 10px;" alt="shadow-image of horse reaching out to touch person with nose." src="../images/chapter_1_6_from_leah_shurtes_facebook.jpg">
+<img style="margin: 10px: float: center;" alt="shadow-image of horse reaching out to touch person with nose." src="../images/chapter_1_6_from_leah_shurtes_facebook.jpg">

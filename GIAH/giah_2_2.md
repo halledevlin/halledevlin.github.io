@@ -2,6 +2,9 @@
 title:  One-Eyed Horse
 layout: dateless_post
 ---
+<h3>God is a Horseman #1</h3>
+<p class="nofloat"> </p>
+<h4>Jordache: A Purpose-Driven Horse</h4>
 
 God is a Horseman Blog #2:  A One-Eyed Horse
 ----------------------
