@@ -36,7 +36,7 @@ One advantage of this undifferentiated carbon-silicate composition (at least for
 
 ![Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale](../images/Asteroidsscale_NASA_pic.jpg)
 
-<h3><a name="Size">How Big Is It, and How Hard Does It Pull?</a></h3>
+<class="nofloat"><h3><a name="Size">How Big Is It, and How Hard Does It Pull?</a></h3>
 
 Another unique thing about Thule is its size.  Despite being so far out, it was one of the first few hundred asteroids observed and catalogued, way back in 1888--back before orbiting observatories, infrared imaging and all of modern astronomy's tricks for probing far away objects.  It was found back then despite the fact that it isn't the brightest thing out there; Thule has only middling brightness among the asteroids.  But it is one of the *biggest* asteroids out there; only 122 main-belt asteroids are bigger, of the thousands and thousands and thousands out there.  The picture above illustrates this.  4 Vesta is among the very biggest at around 540 km in diameter, smaller in size only than 2 Pallas and the monster asteroid, 1 Ceres--the only asteroid big enough to be labeled a "minor planet."  Thule, though nowhere near that big, is still up there, being closer to 21 Lutetia.  As you can see from the numbers before the names (which denote the order in which the asteroid was discovered), most asteroids are much, much smaller than our destination.
 
@@ -51,32 +51,32 @@ In the end, we read science fiction to go to places *out there,* places we could
 
 P.S.:  In case you're interested in finding out more about Thule or asteroids in general, here's a list of places where I found much of the above information, and more:
 
-<h6>279 Thule:</h6>
+<h4>279 Thule:</h4>
 - [Wikipedia's page on Thule}(http://en.wikipedia.org/wiki/279_Thule)
 - {Scientific Journal article on Thule] (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2008.13764.x/abstract;jsessionid=828F55B9D37217002B45C7FB20855CDB.d03t04)
 - http://adsabs.harvard.edu/full/1990RMxAA..21..585T
 - [And my favorite:  NASA/JPL's small-body database page for Thule](http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=279)
 
-<h6>153 Hilda:</h6>
+<h4>153 Hilda:</h4>
 - [Wikipedia's page on Hilda](http://en.wikipedia.org/wiki/153_Hilda)
 - http://en.wikipedia.org/wiki/Hilda_family
 
-<h6>Asteroids in General:</h6>
+<h4>Asteroids in General:</h4>
 - http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png
 - http://www.nasa.gov/worldbook/asteroid_worldbook.html
 - http://www.astronomyexpert.co.uk/AsteroidBelt.html
 - http://library.thinkquest.org/18652/asteroid.html
 
-<h6>D-type asteroids:</h6>
+<h4>D-type asteroids:</h4>
 - http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920001612_1992001612.pdf
 
-<h6>Asteroid collisions:</h6>
+<h4>Asteroid collisions:</h4>
 - http://www.space.com/11537-nuclear-force-asteroid-collisions-aftermath.html
 - http://www.space.com/11218-asteroid-collisions-wrecking-balls-experiment.html
 - http://spacemath.gsfc.nasa.gov/weekly/6Page141.pdf
 - http://www.absoluteastronomy.com/topics/Hypervelocity
 
-<h6>Unusual silicate materials:</h6>
+<h4>Unusual silicate materials:</h4>
 - http://en.wikipedia.org/wiki/Seifertite
 - http://en.wikipedia.org/wiki/Stishovite
 - http://en.wikipedia.org/wiki/Coesite

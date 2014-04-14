@@ -1,9 +1,9 @@
 ---
-title: 7-25-13  Gone
+title: Gone
 layout: dateless_post
 ---
 
-The God is a Horseman Blog #2:  Gone
+The God is a Horseman #3:  Gone
 -----------------------------
 
 <img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="../images/jordachegravesun.JPG" width="300" height="300" />
@@ -19,6 +19,6 @@ Every time I think that I will never see this horse alive again, my heart breaks
 
 Do I want a Master, in mine?
 
-That much I know the answer to.  Yes.  I want my Master there.  Even if there is more work to do.  Even if the burdens he puts on my back are heavier than those I bear now on Earth.  Even if the hours are longer, even if it never ends.  Why?  Not for hope of riches, pleasure, or ease--no, not at all.  My Master's presence is the sweetest thing I know.  To be closer to him would be more reward, and more fuel for service, than I will know in this life.
+That much I know the answer to.  Yes.  I want my Master there.  Even if there is more work to do.  Even if the burdens he puts on my back are heavier than those I bear now on Earth.  Even if the hours are longer, even if it never ends.  Why?  Not for hope of riches, pleasure, or ease--no, not at all.  My Master's presence is the sweetest thing I know.  To be closer to Him would be more reward, and more fuel for service, than I will know in this life.
 
 I can only hope that, could I have asked him, Jordache would have said the same of me.
