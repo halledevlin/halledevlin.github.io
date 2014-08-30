@@ -4,7 +4,7 @@ layout: dateless_post
 ---
 <h3>God is a Horseman #3:</h3>
 <p class="nofloat"> </p>
-<h4><i>Gone</i></h4>
+<h3><i>Gone</i></h3>
 
 <img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="../images/jordachegravesun.JPG" width="300" height="300" />
 
