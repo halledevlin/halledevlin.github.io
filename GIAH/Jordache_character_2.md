@@ -3,7 +3,7 @@ title:  God is a Horseman
 layout: default
 ---
 
-![Image of evening darkening wooded hill under sky lit by the sunset's afterglow](../images/jordache_character_1_v.jpg)
+<img alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow" src="../images/jordache_character_1_v.jpg" width="60%"/>
 
 \#2:  Jordache:  A Purpose-Driven Horse
 =======================================
