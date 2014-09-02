@@ -27,7 +27,7 @@ Whenever Jordache takes his little liberties with me, assuming my tolerance of e
 
 If God is at all the kind of horseman I think he is, when the cantankerous, stubborn, but faithful person nickers to him, calling with the most personal, soul-drenched call their heart can make, he must fill with joy, and his eyes with tears, that he is loved by the one he's loved so long.  And feel that, despite the willfulness, he wants this horse beside him.  Always.
 
-<img style="margin: 10px; float: right;" alt="shadow-image of horse reaching out to touch person with nose." src="../images/chapter_1_6.jpg">
+<img style="margin: 20px; float: right;" alt="shadow-image of horse reaching out to touch person with nose." src="/images/chapter_1_6.jpg">
 
     The Lord is my shepherd;
 		I have everything I need.
@@ -42,7 +42,7 @@ If God is at all the kind of horseman I think he is, when the cantankerous, stub
 		Your rod and your shepherd’s staff comfort me.
     You prepare a meal for me
 		in front of my enemies.
-    You pour oil of blessing on my head;[a]
+    You pour oil of blessing on my head;
 		you fill my cup to overflowing.
     Surely your goodness and love will be with me
 		all my life,

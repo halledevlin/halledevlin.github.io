@@ -9,9 +9,9 @@ navrank: 03
 
 *What is it like, out there?*
 
-So far out, we have no real pictures of it--none with any resolution, even with today's high-resolution telescopes.  We know it only as a dimple of dim against the black of space beyond the asteroid belt.  That dimple's brightness varies a little--so we know it rotates, and about how fast.  Enough of its light reaches us that we have gleaned a little spectroscopic data, which tells us what it could possibly be made of.  We have only estimates of its dimensions, and no information on its mass or even its shape.  As if it were some distant island on the horizon--just close enough to see that it's there, just far enough away that we can't tell more.  It's sufficient for those of us whose eyes are caught by the far off, the unreachable, to make us wonder:  What is it like *out there?*
+So far out, we have no real pictures of it--none with any resolution, even with today's high-resolution telescopes.  We know it only as a dimple of dim against the black of space.  That dimple's brightness varies a little--so we know it rotates, and how fast.  Enough of its light reaches us that we can glean spectroscopic data, which tells us what it could possibly be made of.  We have estimates of its dimensions, but no information on its mass or even its shape.  As if it were some distant island on the horizon--just close enough to see that it's there, just far enough that we can't tell more.  It's sufficient for those of us whose eyes are caught by the far off, the unreachable, to make us wonder:  *What is it like out there?*
 
-279 Thule is the setting for hard science fiction novel I'm working on right now, so I'm spending a lot of time on that lonely little rock these days.  My research for that novel has turned up a lot of intriguing reasons why you might want to join me, *out there*....
+279 Thule is the setting for hard science fiction novel I'm working on right now, so I'm spending a lot of time out on that lonely little rock these days.  My research for that novel has turned up a lot of intriguing reasons why you might want to join me, *out there*....
 
 - [How Far Out Is *Out There?*](#Distance)
 - [What's It Made Of?](#Composition)
@@ -21,7 +21,8 @@ So far out, we have no real pictures of it--none with any resolution, even with 
 ![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
 
 <class="nofloat"><h3><a name="Distance">How Far Out Is <em>Out There?</em></a></h3>
-	
+<p>
+</p>
 279 Thule is a real asteroid, one of the many in the wide asteroid belt that lies between Mars and Jupiter.  Thule is the farthest of the "main belt" asteroids from the Sun; the Hilda family of asteroids orbits in the "outer belt," between the main belt and Jupiter.  The Trojan asteroids lay a little further out, in and around Jupiter's own orbit.  Then there are the Centaurs, Neptune Trojans, and Trans-Neptunian objects which orbit even farther out than that--even outside the traditional boundary of our Solar System.  But, at a minimum distance of 488,000,000 km (around 300 million miles) from Earth--more than three times the distance from Earth to the Sun--Thule is still pretty far out.  At the space shuttle's top speed of around 28,000 km/hr (17,500 mph), it would take at least two years to get there.  (see more Earth-to-asteroid distance calculations [here](LFA_calculations.xlsx).)
 
 <h3><a name="Composition">What's It Made Of?</a></h3>
