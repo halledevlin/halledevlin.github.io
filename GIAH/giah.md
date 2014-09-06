@@ -8,7 +8,7 @@ navrank: 02
 <h2>God Is A Horseman:</h2>
 <h3>*Parables for the Spirit of the Horse and the Soul of the Horseman*</h3/>
 
-<img style="margin: 10px; float: left;" alt="Me petting Curly" src="/images/P1010530.JPG" width="300px"/>
+<img style="float: left;" alt="Me petting Curly" src="/images/P1010530.JPG" width="300px"/>
 
 When God created Horse, he created a very special animal.  And when he gave Horse to Human, he gave us a chance to experience one of the most incredible relationships a person can have.
 
