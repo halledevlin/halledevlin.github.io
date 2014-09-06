@@ -124,13 +124,13 @@ h5 a.heading_anchor:hover, h6 a.heading_anchor:hover {
 p {
     margin: 0 0 20px 0;
 }
-pre {
+pre,blockquote {
     padding: 5px 0 5px 10px;
     border-left: 3px solid #DDD;
     font-family: Monospace;
-    font-size: 14px;
+    font-size: 16px;
     color: #555;
-    background-color: #F0F0F0;
+    background-color: #F8F8F8;
 }
 code {
     background-color: #F0F0F0;
