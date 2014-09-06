@@ -6,7 +6,7 @@ layout: dateless_post
 <p class="nofloat"> </p>
 <h3><i>A One-Eyed Horse</i></h3>
 
-<img style="margin: 10px; float: right;" alt="palamino horse in pasture" src="../images/giah_blog_1.jpg" width="300" height="300" />
+<img style="margin: 10px; float: right;" alt="palamino horse in pasture" src="../images/giah_blog_1-2.jpg" width="500"/>
 
 <p>
 </p>
@@ -24,13 +24,13 @@ That was almost a year ago.  Now my erstwhile neighbor had arranged a new home f
 
 Logan, I knew, had been a "pasture pony" for at least a decade.  Despite the decided equine tendency to go feral when not handled for such a long time, with some firm encouragement Logan accepted me as his boss and submitted to me haltering him and leading him around.  But, I was at a loss for how to deal with his one-sided blindness.  If I walked on the side with the eye, he leaned into me, invading my space and threatening to run me over sideways.  Was he afraid to step away from me, into the dark abyss of that side of the world that he couldn't see?  I was unsure about leading him from his eyeless side.  How would he react to a handler he could hear and feel, but not see?  At the end of our first session, we were both a little frustrated.  When I released his halter he wheeled and galloped away, glad to get away from this person who was making him face his worst fears.
 
-> "Accept my teachings and learn from me, because I am gentle and humble in spirit, and you will find rest for your lives.  The burden that I ask you to accept is easy; the load I give you to carry is light.” --Matthew 11:29-30 (NCV)
+>"Accept my teachings and learn from me, because I am gentle and humble in spirit, and you will find rest for your lives.  The burden that I ask you to accept is easy; the load I give you to carry is light.” --Matthew 11:29-30 (NCV)
 
 When I returned the next day, Logan seemed to have rethought his attitude.  He calmly accepted my leadership, even coming to nudge me for treats.  I felt like he wanted to be near me, like he enjoyed my attention, the interest and purpose I gave him, even for just the few minutes each day that I worked with him.  In his lonely life, I was probably the only person who had shown so much interest in him since he'd gone half-blind.  Since he was ruined.
 
 Logan reminded me of my friend Joanna.  Joanna is in her seventies, confined to a wheelchair by a malady I've never heard explained.  Her teeth are gone, along with her independence.  To top it all off, her husband, the father of her three children, left after the wheelchair came, saying he didn't want her anymore.  After that there was a time, she told me, that she contemplated suicide.  What joy could she have in life now?  How could she ever be happy in a world where other people walked all around her, but she could never walk again?
 
-     "So we do not give up. Our physical body is becoming older and weaker, but our spirit inside us is made new every day.  We have small troubles for a while now, but they are helping us gain an eternal glory that is much greater than the troubles.  We set our eyes not on what we see but on what we cannot see. What we see will last only a short time, but what we cannot see will last forever."  2 Corinthians 4:16-18 (NCV)
+>"So we do not give up. Our physical body is becoming older and weaker, but our spirit inside us is made new every day.  We have small troubles for a while now, but they are helping us gain an eternal glory that is much greater than the troubles.  We set our eyes not on what we see but on what we cannot see. What we see will last only a short time, but what we cannot see will last forever."  2 Corinthians 4:16-18 (NCV)
 
 God sent a friend to her, she says, the evening she was planning to kill herself, to tell her to hang on.  She'd always been faithful, but it took that evening for her to give her disability, and her despair, over to God.  After that, she started dancing.  She packed up her resentment and joined a liturgical dance group, singing spiritual songs through sign language-based hand movements, singing about the beauty and love of her Lord.  That's how I met her, in fact, when she performed at an event I was helping with.  Dancing with her arms, her heart, and her effervescent soul, she was using every part of herself she had left to do what God had asked--and the joy of it lit up her face.  No one else I know has joy quite so contagious.
 
@@ -42,8 +42,8 @@ The day I finally loaded Logan into my trailer, took him over and walked him int
 
 Thank you, God, that no matter how broken we are, you can still find use for the pieces.
 
-     "We now have this light shining in our hearts, but we ourselves are like fragile clay jars containing this great treasure. This makes it clear that our great power is from God, not from ourselves." --2 Cor. 4:7-8 (NLT)
+>"We now have this light shining in our hearts, but we ourselves are like fragile clay jars containing this great treasure. This makes it clear that our great power is from God, not from ourselves." --2 Cor. 4:7-8 (NLT)
 
-     "Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day." --2 Cor 4:16 (NIV)
+>"Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day." --2 Cor 4:16 (NIV)
 
 <a name="footnote"><sup>1</sup> Some horses have been helped to overcome this handicap; see http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/ for one example.

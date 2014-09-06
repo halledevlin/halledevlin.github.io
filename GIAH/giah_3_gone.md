@@ -6,7 +6,7 @@ layout: dateless_post
 <p class="nofloat"> </p>
 <h3><i>Gone</i></h3>
 
-<img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="../images/jordachegravesun.JPG" width="300" height="300" />
+<img style="margin: 10px; float: right;" alt="jordache's grave with sun behind" src="../images/jordachegravesun-2.JPG" width="500" height="500" />
 
 
 Last week, my horse Jordache died.
