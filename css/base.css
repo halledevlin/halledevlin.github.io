@@ -2,7 +2,7 @@
 
 body {
     font-family: sans-serif;
-    margin: 9em;
+    margin: 4em;
     margin-left: 8%;
     margin-right: 8%;
 }
@@ -124,7 +124,7 @@ h5 a.heading_anchor:hover, h6 a.heading_anchor:hover {
 p {
     margin: 0 0 20px 0;
 }
-pre,blockquote,blockquote>p {
+pre,blockquote {
     padding: 5px 0 5px 10px;
     border-left: 3px solid #DDD;
     font-family: Monospace;
