@@ -7,7 +7,7 @@ layout: dateless_post
 <p class="nofloat"> </p>
 <h3><i>Jordache: A Purpose-Driven Horse</i></h3>
 
-<img style="float: left;" alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow." src="../images/jordache_character_1_v.jpg" width="500px"/>
+<img style="float: left;" alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow." src="../images/jordache_character_1_v.jpg">
 
 Today I stayed late at work and it's pitch dark by the time I head out to feed my horses.  Feeling the path with my feet more than seeing it, I see a dim equine form ahead, picked out by the beam of the barn's night light shining through an open door.  My old chestnut friend, Jordache, is waiting for me.  
 
