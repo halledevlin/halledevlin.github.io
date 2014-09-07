@@ -9,6 +9,8 @@ layout: dateless_post
 
 <img style="float: left;" alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow." src="../images/jordache_character_1_v.jpg">
 
+<p class="nofloat"> </p>
+
 Today I stayed late at work and it's pitch dark by the time I head out to feed my horses.  Feeling the path with my feet more than seeing it, I see a dim equine form ahead, picked out by the beam of the barn's night light shining through an open door.  My old chestnut friend, Jordache, is waiting for me.  
 
 He steps out of the light as I come nearer, his aging, aching bones making his movements slow and deliberate.  A moment later, a low-throated nicker from the darkness in front of my face startles me.  The broad white star on Jordache's forehead looms up and he pushes his graying head into me, eager for my company.  And, more to the point, eager for his dinner, heavy in the buckets in my hands.
@@ -46,6 +48,5 @@ If God is at all the kind of horseman I think he is, when the cantankerous, stub
 		all my life,
     and I will live in the house of the Lord forever.
 		--Psalm 23 (NCV)
-
 <p class="nofloat"> </p>
-<img style="float: right;" alt="shadow-image of horse nose reaching out to touch person." src="/images/chapter_1_6.jpg" width="300px"/>
+<img style="float: center;" alt="shadow-image of horse nose reaching out to touch person." src="/images/chapter_1_6.jpg" width="500px"/>

@@ -42,8 +42,8 @@ The day I finally loaded Logan into my trailer, took him over and walked him int
 
 Thank you, God, that no matter how broken we are, you can still find use for the pieces.
 
->"We now have this light shining in our hearts, but we ourselves are like fragile clay jars containing this great treasure. This makes it clear that our great power is from God, not from ourselves." --2 Cor. 4:7-8 (NLT)
+>"We now have this light shining in our hearts, but we ourselves are like fragile clay jars containing this great treasure. This makes it clear that our great power is from God, not from ourselves." --2 Corinthians 4:7-8 (NLT)
 
->"Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day." --2 Cor 4:16 (NIV)
+>"Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day." --2 Corinthians 4:16 (NIV)
 
-<a name="footnote"><sup>1</sup> Some horses have been helped to overcome this handicap; see http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/ for one example.
+<a name="footnote"><sup>1</sup> Some horses have been helped to overcome this handicap; see [here](http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/) for one example.

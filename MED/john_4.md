@@ -8,7 +8,7 @@ Meditation on [John 4:1-42](http//www.biblegateway.com/john_4): The Woman at the
 =======================================================================================================
 
 
-     >"I have no husband." --vs. 17
+>"I have no husband." --vs. 17
 
 What must she have been feeling, when she said those words to Jesus?
 

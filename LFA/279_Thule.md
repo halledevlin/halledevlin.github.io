@@ -19,16 +19,14 @@ As if it were some distant island on the horizon, just close enough to see that 
 - [What's It Made Of?](#Composition)
 - [How Big Is It, and How Hard Does It Pull?](#Size)
 
-<p>
-</p>
-![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
-<p>
-</p>
+<p class="nofloat"> </p>
 <class="nofloat"><h3><a name="Distance">How Far Out Is <em>Out There?</em></a></h3>
-<p>
-</p>
-279 Thule is a real asteroid, one of the many in the wide asteroid belt that lies between Mars and Jupiter.  "Farthest Asteroid from the Sun" is a bit of a misnomer:  Thule is the farthest of the "main belt" asteroids.  Many asteroids lie much farther, but also are well outside the "official" main belt.  The Hilda family of asteroids orbits lie in the "outer belt," between the main belt and Jupiter.  The Trojan asteroids lie a little further out, in and around Jupiter's own orbit.  Then there are the Centaurs, Neptune Trojans, and Trans-Neptunian objects which orbit even farther out than that--outside the traditional boundary of our Solar System.  But, at a minimum distance of 488 million kilometers (around 300 million miles) from Earth--more than three times the distance from Earth to the Sun--Thule is still pretty far out.  At the space shuttle's top speed of around 28 thousand kilometers per hour (17,500 mph), it would take at least two years to get there.  (see more Earth-to-asteroid distance calculations [here](LFA_calculations.xlsx).)
+<p class="nofloat"> </p>
 
+279 Thule is a real asteroid, one of the many in the wide asteroid belt that lies between Mars and Jupiter.  "Farthest Asteroid from the Sun" is a bit of a misnomer:  Thule is the farthest of the "main belt" asteroids.  Many asteroids lie much farther, but also are well outside the "official" main belt.  The Hilda family of asteroids orbits lie in the "outer belt," between the main belt and Jupiter.  The Trojan asteroids lie a little further out, in and around Jupiter's own orbit.  Then there are the Centaurs, Neptune Trojans, and Trans-Neptunian objects which orbit even farther out than that--outside the traditional boundary of our Solar System.  But, at a minimum distance of 488 million kilometers (around 300 million miles) from Earth--more than three times the distance from Earth to the Sun--Thule is still pretty far out.  At the space shuttle's top speed of around 28 thousand kilometers per hour (17,500 mph), it would take at least two years to get there.  (see more Earth-to-asteroid distance calculations [here](LFA_calculations.xlsx).)
+<p class="nofloat"> </p>
+![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
+<p class="nofloat"> </p>
 <h3><a name="Composition">What's It Made Of?</a></h3>
 
 So if Thule is so far out, do we have any idea what it's made of?  Some, based on how it reflects the Sun's light.  In other words, based on spectroscopic information.  Spectroscopy is the main way most asteroids are characterized, especially those (like Thule) that are too far out to have had unfortunate relatives swing too close to Earth and become meteorites.    Those meteorites, swept up by and pored over by eager meteorite-hounds, understand the rocks in the asteroid belt the meteorites are related to.  Most asteroids that close to Earth are primarily metallic, heavy with minerals containing iron and other metals.  A few meteorites, however, have much higher carbon content--these, called "C-Types," match spectroscopically to asteroids further out in the belt.
