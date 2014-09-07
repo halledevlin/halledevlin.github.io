@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-Meditation on [II Kings 22-23](http//www.biblegateway.com/second kings 22):  King Josiah 
+Meditation on [II Kings 22-23](http://www.biblegateway.com/second kings 22):  King Josiah 
 ========================================================================================
 
 

@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-Meditation on [John 4:1-42](http//www.biblegateway.com/john_4): The Woman at the Well (make link right)
+Meditation on [John 4:1-42](http://www.biblegateway.com/john_4): The Woman at the Well (make link right)
 =======================================================================================================
 
 

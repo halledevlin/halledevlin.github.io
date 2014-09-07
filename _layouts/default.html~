@@ -10,13 +10,16 @@
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-
+        <!-- link rel="stylesheet" href="/css/main.css" -->
+        <!-- From Wok -->
+        <link rel="stylesheet" href="/css/base.css">
+        <link rel="stylesheet" href="/css/pygments.css">
+	
     </head>
     <body>
 
     <header>
-      <h1><a href="/">{{ site.name }}</a></h1>
+      <h1 class="site-title"><a href="/">{{ site.name }}</a></h1>
       <nav>
         {% for nav in site.pages %}
           {% if nav.navrank %}
@@ -39,14 +42,11 @@
             <div class="footer">
               <div class="contact">
                 <p>
-                  Christie Devlin
-                </p>
+		        </p>
               </div>
               <div class="contact">
                 <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-                </p>
+               </p>
               </div>
             </div>
           </div>

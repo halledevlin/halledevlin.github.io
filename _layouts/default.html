@@ -21,7 +21,8 @@
     <header>
       <h1 class="site-title"><a href="/">{{ site.name }}</a></h1>
       <nav>
-        {% for nav in site.pages %}
+        {% assign sorted_pages = site.pages | sort:'navrank' %}
+        {% for nav in sorted_pages %}
           {% if nav.navrank %}
   	    {% if nav.url == page.url %}
 	      <a href="{{ nav.url }}" class="active">{{ nav.title }}</a>
