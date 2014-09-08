@@ -5,7 +5,7 @@ navrank: 02
 ---
 
 =================
-<h2>God Is A Horseman: *About Horses and Horsemen, and Horsemen and God*</h2>
+<h2>God Is A Horseman: <i>About Horses and Horsemen, and Horsemen and God<i/></h2>
 <h3>*Parables for the Spirit of the Horse and the Soul of the Horseman*</h3/>
 
 <img style="float: left;" alt="Me petting Curly" src="/images/P1010530.JPG" width="300px"/>
