@@ -27,8 +27,6 @@ As if it were some distant island on the horizon, just close enough to see that 
 
 <p class="nofloat"> </p>
 
-<img style="float: left;" alt="Image of evening darkening wooded hill under sky lit by the sunset's afterglow." src="../images/jordache_character_1_v.jpg">
-
 ![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
 
 <p class="nofloat"> </p>

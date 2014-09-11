@@ -19,7 +19,7 @@ Christie writes in a wide range of genres, from the inspirational to the fantast
 
 ## [279 Thule: Farthest Asteroid From The Sun](LFA/279_Thule.html)
 
-A short article about the science behind my current sci-fi book project, including calculations estimating its gravity, how fast you'd have to go to get there, and more for the space science enthusiast.
+A short article about the science behind my current hard sci-fi book project, including calculations estimating its gravity, how fast you'd have to go to get there, and more for the space science enthusiast.
 
 <p class="nofloat" />
 
