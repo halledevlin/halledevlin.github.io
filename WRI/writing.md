@@ -12,6 +12,7 @@ General Writing and Science Links
 - [WritersWeekly.com - Articles](http://www.writersweekly.com/this_weeks_article.php)
 - [Writertopia - Writing Tools and Workshops](http://www.writertopia.com/)
 - [American Christian Fiction Writers](http://www.acfw.com)
+- [Dayton Christian Writer's Guild](http://www.daytonchristianwriters.com/)
 
 other writers
 =============
