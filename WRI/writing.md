@@ -12,15 +12,20 @@ General Writing and Science Links
 - [WritersWeekly.com - Articles](http://www.writersweekly.com/this_weeks_article.php)
 - [Writertopia - Writing Tools and Workshops](http://www.writertopia.com/)
 - [American Christian Fiction Writers](http://www.acfw.com)
-- [Dayton Christian Writer's Guild](http://www.daytonchristianwriters.com/)
+- [Dayton Christian Writer's Guild (this site also serves as the online home of my dear writing friend, Tina Toles)](http://www.daytonchristianwriters.com/)
 
-other writers
-=============
+Other Writers (and writing-related professionals)
+=================================================
 
+- [Archangel Press--M. Keaton's Website (M.K. is one of my most beloved mentors)](http://archangelpress.net/)
+- [A. S. Zanoni--my favorite copy editor (she's really good!)](http://aszanoni.blogspot.com/)
+- [Carole S. Franklin--writing group friend](http://www.carole-s-franklin.com/)
+- [Chris Lester--writing group friend](http://chrislester.org)
 - [merriehaskell.com](http://www.merriehaskell.com/)
 - [on the road of rue & wormwood](http://fairmer.livejournal.com/)
-- [Story Bones - steve buchheit](http://storybones.blogspot.com/)
+- [Story Bones - Steve Buchheit](http://storybones.blogspot.com/)
 - [The Writer and The White Cat--ferrel _rick_ moore](http://thewriterandthewhitecat.blogspot.com/)
+
 
 [Writing About Horses Presentation (presented at Penguicon 2008)](writing_about_horses.ppt)
 ----------------------------------
