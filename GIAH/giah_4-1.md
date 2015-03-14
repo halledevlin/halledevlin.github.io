@@ -7,7 +7,7 @@ layout: dateless_post
 <p class="nofloat"> </p>
 <h3><i>Explaining Reality</i></h3>
 
-<img style="float: left;" alt="snow and barn with tree shadows thrown across the snow." src="../images/1604_barn_tree_shadows.JPG">
+<img style="float: left;" alt="snow and barn with tree shadows thrown across the snow." src="../images/1604_barn_tree_shadows.JPG" width="500" height="500" />
 
 <p class="nofloat"> </p>
 
@@ -29,20 +29,21 @@ My barn is open and spacious inside, so Prince can easily move away from me.  Gi
 
 Now, I realize, I have some explaining to do.
 
-If you will only obey me,
-    you will have plenty to eat.
-
-But if you turn away and refuse to listen,
-    you will be devoured by the sword of your enemies.
-    I, the Lord, have spoken!
-
-	--Isaiah 1:19-20 (NLT)
+     If you will only obey me,
+         you will have plenty to eat.
+		 
+     But if you turn away and refuse to listen,
+         you will be devoured by the sword of your enemies.
+		 
+     I, the Lord, have spoken!
+	   
+	   --Isaiah 1:19-20 (NLT)
 
 I raise my hand and gently drive Prince out of the barn, which has only one door open to the frigid outside.  Then I shut that door.
 
 <p class="nofloat"> </p>
 
-<img style="float: left;" alt="Image of horse looking in through barn door." src="../images/<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside.JPG">">
+<img style="float: left;" alt="Image of horse looking in through barn door." src="../images/<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside.JPG" width="500" height="500" />
 
 <p class="nofloat"> </p>
 
@@ -62,7 +63,7 @@ I let Prince think outside while I tend to water buckets and adding a blanket to
 
 <p class="nofloat"> </p>
 
-<img style="float: left;" alt="Image of horse looking in through barn door." src="../images/GIAH_reality_princeatdoor1_1628.jpg">
+<img style="float: left;" alt="Image of horse looking in through barn door." src="../images/GIAH_reality_princeatdoor1_1628.jpg" width="500" height="500" />
 
 <p class="nofloat"> </p>
 
@@ -72,20 +73,20 @@ Looking at him square on, I ask with body language if he'll submit to me.  He st
 
 And next time I feel (left out in the cold, missing out) --is this really the moral that I want to draw?  isn't the lesson really about realizing that we must submit to God because everything we have comes from Him?  Or maybe this is pointing to God's punishment, after I have tried going it on my own too much?  leave it up to the reader to figure that out?, maybe I'll try to remember *reality,* too.
 
-A single day in your courts
-    is better than a thousand anywhere else!
-I would rather be a gatekeeper in the house of my God
-    than live the good life in the homes of the wicked.
+     A single day in your courts
+         is better than a thousand anywhere else!
+     I would rather be a gatekeeper in the house of my God
+         than live the good life in the homes of the wicked.
+     
+	 For the Lord God is our sun and our shield.
+         He gives us grace and glory.
+     The Lord will withhold no good thing
+         from those who do what is right.
 
-For the Lord God is our sun and our shield.
-    He gives us grace and glory.
-The Lord will withhold no good thing
-    from those who do what is right.
+     O Lord of Heaven’s Armies,
+         what joy for those who trust in you.
 
-O Lord of Heaven’s Armies,
-    what joy for those who trust in you.
-
-	--Psalms 84:10-12 (NLT)
+	     --Psalms 84:10-12 (NLT)
 
 
 For more passages on God's provision, check out the following links:
