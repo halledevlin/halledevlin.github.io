@@ -84,9 +84,9 @@ And next time God's coming up with that halter, asking me to take that next step
 <img style="float: left;" alt="Image of horse looking in through barn door." src="../images/GIAH_reality_princeatdoor1_1628.jpg" width="500" height="400" />
 
 <p class="nofloat"> </p>
+<p class="nofloat"> </p>
 
 For more passages on God's provision, check out the following links:
---------------------------------------------------------------------
 
 - [http://www.scripturepromises.com/promises/provision.pdf](http://www.scripturepromises.com/promises/provision.pdf)
 - [http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision](http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision)
