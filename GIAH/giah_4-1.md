@@ -40,7 +40,7 @@ I raise my hand and gently drive Prince out of the barn, which has only one door
 
 <p class="nofloat"> </p>
 
-<img style="float: left;" alt="Image of horse looking in through barn door." src="../images/<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside.JPG" width="500" height="350" />
+<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside.JPG" width="500" height="350" />
 
 <p class="nofloat"> </p>
 
@@ -86,8 +86,8 @@ And next time God's coming up with that halter, asking me to take that next step
 <p class="nofloat"> </p>
 
 For more passages on God's provision, check out the following links:
-	from http://www.scripturepromises.com/promises/provision.pdf
-	http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision
-	http://bible.knowing-jesus.com/topics/God~s-Provision
-	http://www.heavensinspirations.com/word-provision.html
+- [http://www.scripturepromises.com/promises/provision.pdf] (http://www.scripturepromises.com/promises/provision.pdf)
+- [http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision] (http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision)
+- [http://bible.knowing-jesus.com/topics/God~s-Provision] (http://bible.knowing-jesus.com/topics/God~s-Provision)
+- [http://www.heavensinspirations.com/word-provision.html] (http://www.heavensinspirations.com/word-provision.html)
 	
