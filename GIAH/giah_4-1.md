@@ -40,7 +40,7 @@ I raise my hand and gently drive Prince out of the barn, which has only one door
 
 <p class="nofloat"> </p>
 
-<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside.JPG" width="500" height="350" />
+<img style="float: left;" alt="Image of horse standing outside of barn." src="../images/1657_Prince_Outside_r.JPG" width="500" height="350" />
 
 <p class="nofloat"> </p>
 
@@ -48,9 +48,9 @@ In running away from me and my halter, Prince forgot the real reason he should f
 
 *I provide.*  
 
-I provide the barn, which keeps the wind off his back and holds the herdmates that are his precious friends.  I provide the hay, that fills his stomach and gives him life, and unfrozen water to slack his thirst.  I provide a hundred other things he can't begin to understand but that make his life comfortable and worth living.  
+I provide the barn, which keeps the wind off his back and holds the herd mates that are his precious friends.  I provide the hay, that fills his stomach and gives him life, and unfrozen water to slack his thirst.  I provide a hundred other things he can't begin to understand but that make his life comfortable and worth living.  
 
-Just like God provides everything for me, from the flesh I live in to the ground I walk on to the very universe that pulses with His aliveness around me.  The moment I forget that He made all of this is the moment I start living in my own little dream world.
+Just like God provides everything for me, from the flesh I live in to the ground I walk on to the very universe that pulses with his aliveness around me.  The moment I forget that he made all of this is the moment I start living in my own little dream world.
 
 Like me, Prince has a tendency to forget the truth of his master's provision and live in that self-sufficient little dream world too often.  But for him, no longer.  
 
@@ -60,9 +60,9 @@ I let Prince think outside while I tend to water buckets and adding a blanket to
 
 "Ready to try again, boy?"
 
-Looking at him square on, I ask with body language if he'll submit to me.  He steps toward me and his head drops to shoulder level, as if he's reaching for the halter in my hand.  I can sense his eagerness to get back in the barn, and his acknowledgement that getting in is pursuant to submission.  I touch the soft fur on his neck as I guide his nose into the halter.  He follows me like a kitten following its mother.  He even accepts the blanket, though not without some negotiation--it's still just as scary as it was before I put the halter on, but now at least I can encourage him to stick around long enough to get the warmth he needs.  Not only will he be warmer tonight when the temperature drops *even further,* but my heart won't shiver, thinking of my chilly, stubborn Princey.  Because he was willing to see *reality,* and recognize how much he needs me, both he and I will be warmer.
+Looking at him square on, I ask with body language if he'll submit to me.  He steps toward me and his head drops to shoulder level, as if he's reaching for the halter in my hand.  I can sense his eagerness to get back in the barn, and his acknowledgement that getting in is pursuant to submission.  I touch the soft fur on his neck as I guide his nose into the halter.  He follows me like a kitten following its mother.  He even accepts the blanket, though not without some negotiation--it's still just as scary as it was before I put the halter on, but now at least I can encourage him to stick around long enough to get the warmth he needs.  Not only will he be more comfortable tonight when the temperature drops *even further,* but my heart won't shiver, thinking of my stubborn, freezing Prince.  Because he was willing to see *reality* and recognize how much he needs me, both he, and I, will be warmer.
 
-And next time God's coming up with that halter, asking me to take that next step--do a little less of what he doesn't like, a little more of what he does, *give in* more--maybe I'll try to remember *reality,* too.
+And next time God's coming up with that halter, asking me to take that next step--do a little less of what he doesn't like, a little more of what he does, *give in* more--maybe I'll try to remember reality, too.
 
      A single day in your courts
          is better than a thousand anywhere else!
@@ -86,8 +86,10 @@ And next time God's coming up with that halter, asking me to take that next step
 <p class="nofloat"> </p>
 
 For more passages on God's provision, check out the following links:
-- [http://www.scripturepromises.com/promises/provision.pdf] (http://www.scripturepromises.com/promises/provision.pdf)
-- [http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision] (http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision)
-- [http://bible.knowing-jesus.com/topics/God~s-Provision] (http://bible.knowing-jesus.com/topics/God~s-Provision)
-- [http://www.heavensinspirations.com/word-provision.html] (http://www.heavensinspirations.com/word-provision.html)
+--------------------------------------------------------------------
+
+- [http://www.scripturepromises.com/promises/provision.pdf](http://www.scripturepromises.com/promises/provision.pdf)
+- [http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision](http://www.whatchristianswanttoknow.com/21-bible-verses-about-gods-provision)
+- [http://bible.knowing-jesus.com/topics/God~s-Provision](http://bible.knowing-jesus.com/topics/God~s-Provision)
+- [http://www.heavensinspirations.com/word-provision.html](http://www.heavensinspirations.com/word-provision.html)
 	
