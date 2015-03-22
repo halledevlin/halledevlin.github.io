@@ -16,10 +16,23 @@ The only other relationship that compares is the relationship I have with God--e
 
 From either perspective, it's an awesome ride.  In this series of "horse parables" (and upcoming book) that make up *God is a Horseman,* I invite you to join me, my horses, and God, as we discuss living and working with each other.  Get in (or under) the saddle.
 
-<p class="nofloat"> </p> - [#1: Jordache -- A Purpose-Driven Horse](giah_1-2.html)
+<p class="nofloat"> </p> - [#1: Jordache -- A Purpose-Driven Horse](giah_1-2.html#disqus_thread)
 <p class="nofloat"> </p> - [#2: A One-Eyed Horse](giah_2_2.html)
 <p class="nofloat"> </p> - [#3: Gone](giah_3_gone.html)
 <p class="nofloat"> </p> - [#4: Explaining Reality](giah_4-1.html)
 
 I also invite you to check out [*God is a Horseman's* Facebook page](http://www.facebook.com/GodisaHorseman) at http://www.facebook.com/GodisaHorseman
 
+//disquss html stuff (for enabling comments on the articles):
+<script type="text/javascript">
+ /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+ var disqus_shortname = 'wwwhalledevlincom'; // required: replace example with your forum shortname
+
+ /* * * DON'T EDIT BELOW THIS LINE * * */
+ (function () {
+ var s = document.createElement('script'); s.async = true;
+ s.type = 'text/javascript';
+ s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+ (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+ }());
+ </script> 

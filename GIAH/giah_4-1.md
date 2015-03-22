@@ -27,8 +27,6 @@ I move gently up to Prince with the halter.  He takes a long, suspicious look at
 
 My barn is open and spacious inside, so Prince can easily move away from me.  Giving him another chance, I walk up to him again.  Again, he leaves.  
 
-Now, I realize, I have some explaining to do.
-
      If you will only obey me,
          you will have plenty to eat.		 
      But if you turn away and refuse to listen,
@@ -36,6 +34,8 @@ Now, I realize, I have some explaining to do.
      I, the Lord, have spoken!
 	    --Isaiah 1:19-20 (NLT)
 
+Now I realize, I have some explaining to do.
+		
 I raise my hand and gently drive Prince out of the barn, which has only one door open to the frigid outside.  Then I shut that door.
 
 <p class="nofloat"> </p>
