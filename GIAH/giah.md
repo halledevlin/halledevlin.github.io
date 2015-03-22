@@ -23,7 +23,7 @@ From either perspective, it's an awesome ride.  In this series of "horse parable
 
 I also invite you to check out [*God is a Horseman's* Facebook page](http://www.facebook.com/GodisaHorseman) at http://www.facebook.com/GodisaHorseman
 
-//disquss html stuff (for enabling comments on the articles):
+
 <script type="text/javascript">
  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
  var disqus_shortname = 'wwwhalledevlincom'; // required: replace example with your forum shortname

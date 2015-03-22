@@ -65,7 +65,7 @@ If God is at all the kind of horseman I think he is, when the cantankerous, stub
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
-//disquss html stuff (for enabling comments on the articles):
+
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'wwwhalledevlincom';
