@@ -3,7 +3,7 @@ title: Jordache
 layout: dateless_post
 ---
 
-<h3>God is a Horseman #1:</h3>
+<h3>God is a Horseman #2:</h3>
 <p class="nofloat"> </p>
 <h3><i>Jordache: A Purpose-Driven Horse</i></h3>
 
@@ -19,15 +19,15 @@ Jordache was my first horse, and in the thirty years we've been together--since 
 
 <img style="float: left;" alt="Montage of pictures from Jordache's life" src="../images/jordache_montage_3.jpg" width="500px"/>
 
-With all that, you'd think he'd have a true servant's attitude.  Nothing could be farther from the truth.  In his obvious opinion, he is not here to serve me.  I am here to serve him.  That's not to say he won't do what I ask, at least when I ask loud enough.   When I used to get on his back, he did what I wanted like he was reading my mind.   When I'm on the ground beside him, a word will move him, a glare gets his attention.  But still he seems to believe it's all for his benefit.  Though he knows who really should be in the lead when I put a halter on him, he generally steps out first and expects me to follow.  When I used to saddle him up, he'd start moving his feet and looking at me expectantly, seemingly excited at the prospect of me atop him--a purpose for his life, perhaps, a chance to be more than just a pasture pony.  And when he feels ill, he puts his head down, comes up to me, and begs me to make him feel better.  
+With all that, you'd think he'd have a true servant's attitude.  Nothing could be farther from the truth.  In his obvious opinion, he is not here to serve me.  I am here to serve him.  Though he knows who really should be in the lead when I put a halter on him, he generally steps out first and expects me to follow.  When I used to saddle him up, he'd start moving his feet and looking at me expectantly, seemingly excited at the prospect of me atop him--a purpose for his life, perhaps, a chance to be more than just a pasture pony.  And when he feels ill, he puts his head down and comes up to me, as if he knows I will make him feel better.
 
-To Jordache, his purpose in life isn't to serve me.  It is I who serves him, by making his life more wonderful than he can by himself.  
+That's not to say he won't do what I ask.   When I used to get on his back, he did what I wanted like he was reading my mind.   When I'm on the ground beside him, a word will move him, a glare gets his attention.  But still he seems to believe it's all for his benefit.  To Jordache, his purpose in life isn't to serve me.  It is I who serves him, by making his life more wonderful than he can by himself.  
 
 It makes me wonder, is this how it should be between God and me?  Who is really "serving" who, after all?  And does it matter?  If I can lie down in God's presence with as much peace and trust as Jordache does in mine, if I can bear the burdens God puts on my back knowing God will provide my grain in the end, if I know I can have a better life only by following my God--does it matter if, in the end, I feel like I'm the one who was served?  
 
-Whenever Jordache takes his little liberties with me, assuming my tolerance of even his most annoying antics and my forgiveness for his old-man-grumpy stubbornness, I can't help but smile.  I love this horse, who has been my friend and companion for nearly every day of his long and waning life.  I can't forget all the times he's done what I asked even when it hurt.  When he trusted me and went forward even though every fiber in his prey-animal mind told him to turn and run from the tigers he thought were ahead.  When I was the first thing he came to for healing, and for Joy.
+Whenever Jordache takes his little liberties with me, assuming my forgiveness for always trying to do things his way, I can't help but smile.  I love this horse, who has been my friend and companion for nearly every day of his long and waning life.  I can't forget all the times he's done what I asked, even when it hurt.  When he trusted me and went forward even though every fiber in his prey-animal mind told him to turn and run from the tigers he thought were ahead.  When I was the first thing he came to for healing, and for joy.
 
-If God is at all the kind of horseman I think he is, when the cantankerous, stubborn, but faithful person nickers to him, calling with the most personal, soul-drenched call their heart can make, he must fill with joy, and his eyes with tears, that he is loved by the one he's loved so long.  And feel that, despite the willfulness, he wants this horse beside him.  Always.
+If God is at all the kind of horseman I think he is, when the presumptuous but faithful person nickers to him, calling with the most personal, soul-drenched call their heart can make, he must fill with gladness, and his eyes with tears, that he is loved by the one he's loved so long.  And feel that, despite the willfulness, he wants this horse beside him.  Always.
 
     The Lord is my shepherd;
 		I have everything I need.

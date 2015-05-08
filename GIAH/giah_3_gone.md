@@ -21,3 +21,31 @@ Do I want a Master, in mine?
 That much I know the answer to.  Yes.  I want my Master there.  Even if there is more work to do.  Even if the burdens he puts on my back are heavier than those I bear now on Earth.  Even if the hours are longer, even if it never ends.  Why?  Not for hope of riches, pleasure, or ease--no, not at all.  My Master's presence is the sweetest thing I know.  To be closer to him would be more reward, and more fuel for service, than I will know in this life.
 
 I can only hope that, could I have asked him, Jordache would have said the same of me.
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'wwwhalledevlincom';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'wwwhalledevlincom';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>

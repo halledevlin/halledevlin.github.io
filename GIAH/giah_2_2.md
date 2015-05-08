@@ -2,7 +2,7 @@
 title:  One-Eyed Horse
 layout: dateless_post
 ---
-<h3>God is a Horseman #2:</h3>
+<h3>God is a Horseman #1:</h3>
 <p class="nofloat"> </p>
 <h3><i>A One-Eyed Horse</i></h3>
 
@@ -10,7 +10,7 @@ layout: dateless_post
 
 <p>
 </p>
-Last weekend I moved a horse for a friend, from my neighbor's farm to one just a few roads over. The horse was a big, older gelding named Logan.  Logan looked like he was once a beautiful, powerful beast, with a long, thick neck, still-bulky shoulders and strong legs.  The sort of horse people would have stopped to watch in awe as he thundered by, galloping and bucking in the joy of his strength.
+Last weekend I moved a horse for a friend, from my neighbor's farm to one just a few roads over. The horse was a big, older gelding named Logan.  Logan looked like a once-powerful beast, with a long, thick neck, still-bulky shoulders and strong legs.  The sort of horse people would have stopped to watch in awe as he thundered by, galloping and bucking in the joy of his strength.
 
 But that was not the Logan I met.  Somewhere along the way, long before he'd come to my neighbor's farm, Logan had lost an eye.  
 
@@ -18,15 +18,15 @@ Horse's eyes are toward the sides of their head, so losing an eye meant losing a
 
 I used to see Logan from his eyeless side, when I walked down the lane next to his pasture.  I could see the hairless, hollow spot where his eye had been--deceptively dark, mimicking the eye it had replaced.  If I went up to pet him from that side, even if I spoke to him as I approached, he'd startle when I touched him, jumping away and desperately craning his neck around so his other eye could see me.
 
-His missing eye was not Logan's only problem.  At thirty-four years old, his teeth were worn down so he couldn't chew well.  His last pasture mate had died years before, and my neighbor--his only friend left--was aging herself and, after a fall, had moved off the farm.  Logan was where no horse wants to be:  crippled and alone.  
+His missing eye was not Logan's only problem.  At thirty-four years old, his teeth were worn down so he couldn't chew well.  His last pasture mate had died years before.  My neighbor--his only friend left--was aging herself and, after a fall, had moved off the farm.  Logan was where no horse wants to be:  crippled and alone.  
 
 That was almost a year ago.  Now my erstwhile neighbor had arranged a new home for him, near her.  So last weekend, with the warming spring suggesting the coming heat of summer, I pulled my horse trailer over to Logan's pasture to load him up and take him to his new home.  
 
-Logan, I knew, had been a "pasture pony" for at least a decade.  Despite the decided equine tendency to go feral when not handled for such a long time, with some firm encouragement Logan accepted me as his boss and submitted to me haltering him and leading him around.  But, I was at a loss for how to deal with his one-sided blindness.  If I walked on the side with the eye, he leaned into me, invading my space and threatening to run me over sideways.  Was he afraid to step away from me, into the dark abyss of that side of the world that he couldn't see?  I was unsure about leading him from his eyeless side.  How would he react to a handler he could hear and feel, but not see?  At the end of our first session, we were both a little frustrated.  When I released his halter he wheeled and galloped away, glad to get away from this person who was making him face his worst fears.
+Logan, I knew, had been a "pasture pony" for at least a decade.  Despite the decided equine tendency to go feral when not handled for such a long time, Logan accepted me as his boss and submitted to me leading him around, with some firm encouragement.  But I was at a loss for how to deal with his one-sided blindness.  If I walked on the side with the eye, he leaned into me, invading my space and threatening to run me over sideways.  Was he afraid to step away from me, into the dark abyss of that side of the world that he couldn't see?  I was unsure about leading him from his eyeless side.  How would he react to a handler he could hear and feel, but not see?  At the end of our first session, we were both a little frustrated.  When I released his halter he wheeled and galloped away, glad to get away from this person who was making him face his worst fears.
 
 >"Accept my teachings and learn from me, because I am gentle and humble in spirit, and you will find rest for your lives.  The burden that I ask you to accept is easy; the load I give you to carry is light.” --Matthew 11:29-30 (NCV)
 
-When I returned the next day, Logan seemed to have rethought his attitude.  He calmly accepted my leadership, even coming to nudge me for treats.  I felt like he wanted to be near me, like he enjoyed my attention, the interest and purpose I gave him, even for just the few minutes each day that I worked with him.  In his lonely life, I was probably the only person who had shown so much interest in him since he'd gone half-blind.  Since he was ruined.
+When I returned the next day, Logan seemed to have rethought his attitude.  He calmly accepted my leadership, even coming to nudge me for treats.  I felt like he wanted to be near me, like he enjoyed my attention, the interest and purpose I gave him, even for just the few minutes each day that I worked with him.  In his lonely life, I was probably the only person who had shown much interest in him since he'd gone half-blind.  Since he was ruined.
 
 Logan reminded me of my friend Joanna.  Joanna is in her seventies, confined to a wheelchair by a malady I've never heard explained.  Her teeth are gone, along with her independence.  To top it all off, her husband, the father of her three children, left after the wheelchair came, saying he didn't want her anymore.  After that there was a time, she told me, that she contemplated suicide.  What joy could she have in life now?  How could she ever be happy in a world where other people walked all around her, but she could never walk again?
 
@@ -47,3 +47,31 @@ Thank you, God, that no matter how broken we are, you can still find use for the
 >"Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day." --2 Corinthians 4:16 (NIV)
 
 <a name="footnote"><sup>1</sup> Some horses have been helped to overcome this handicap; see [here](http://www.myhorsechat.com/category/spikers-eye-removal-equine-enucleation/) for one example.
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'wwwhalledevlincom';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'wwwhalledevlincom';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
