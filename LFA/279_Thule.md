@@ -30,6 +30,7 @@ As if it were some distant island on the horizon, just close enough to see that 
 ![Map of asteroid positions in the Solar Systems, including the main asteroid belt, trojans, and near-earth asteroids](../images/InnerSolarSystem-en_from_wikipedia.png)
 
 <p class="nofloat"> </p>
+<p class="nofloat"> </p>
 
 <h3><a name="Composition">What's It Made Of?</a></h3>
 <p class="nofloat"> </p>
@@ -45,6 +46,7 @@ One advantage of this undifferentiated carbon-silicate composition (at least for
 
 <img style="float: right;" alt="Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale." src="../images/Asteroidsscale_NASA_pic.jpg" width="500" height="400" />
 
+<p class="nofloat"> </p>
 <p class="nofloat"> </p>
 
 <class="nofloat"><h3><a name="Size">How Big Is It, and How Hard Does It Pull?</a></h3>
