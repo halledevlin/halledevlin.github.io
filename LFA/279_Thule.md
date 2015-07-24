@@ -43,9 +43,7 @@ One advantage of this undifferentiated carbon-silicate composition (at least for
 
 <p class="nofloat"> </p>
 
-![Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale](../images/Asteroidsscale_NASA_pic.jpg)
-
-<img style="float: right;" alt="Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale." src="../images/Asteroidsscale_NASA_pic.jpg" width="500" height="500" />
+<img style="float: right;" alt="Illustration of the large range of asteroid sizes, using photographs of actual asteroids in relative scale." src="../images/Asteroidsscale_NASA_pic.jpg" width="500" height="400" />
 
 <p class="nofloat"> </p>
 
