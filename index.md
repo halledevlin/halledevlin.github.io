@@ -6,7 +6,6 @@ navrank: 01
 
 Christie writes in a wide range of genres, from the inspirational to the fantastic.  Here's what she's working on these days:
 
-
 <img style="margin: 10px; float: left;" alt="Me and Curly" src="images/mevscurlyfix.jpg" width="300px"/>
 
 ## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](GIAH/giah.html)
@@ -26,7 +25,6 @@ A short article about the science behind my current hard sci-fi book project, in
 ## [Meditations on The Bible](MED/meditations2.html)
 
 Short devotional conversations with God, and the book I understand him through.
-
 
 [About Christie](BIO/bio5.html)
 -------------------------------

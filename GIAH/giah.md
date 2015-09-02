@@ -4,7 +4,6 @@ layout: dateless_post
 navrank: 02
 ---
 
-=================
 <h2>God Is A Horseman: <i>About Horses and Horsemen, and Horsemen and God<i/></h2>
 <h3>*Parables for the Spirit of the Horse and the Soul of the Horseman*</h3/>
 
