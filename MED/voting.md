@@ -7,8 +7,8 @@ layout: default
 
 One of my favorite songs has a line that says, 
 
-  "Let every breath, all that I am
-  Never cease to worship You."
+    "Let every breath, all that I am
+    Never cease to worship You."
 
 Does worshiping God with "all that I am" include voting?  And, how do I "worship" with my vote in an election like this one? 
 
@@ -20,9 +20,9 @@ First, I have to remind myself that there are God-lovers on all sides.  It's eas
 
 How do I, then, find those things worth listening to?  
 
-I have to *seek* them.  To look for not just what is easy to see, but what God wants me to see.  That means, looking prayerfully at all sources of information, even those that make me feel uncomfortable because they don't agree with me.  I have to find sources that are less likely to be biased, such as non-partisan institutions.  I have to recognize that what candidates and their supporters say can't always be trusted.  Spin-doctoring is everywhere, and what both “sides” say must be neither dismissed nor swallowed whole, but used as a springboard to research outside either party’s bubble. 
+I have to *seek* them.  To look for not just what is easy to see, but what God wants me to see.  That means looking prayerfully at all sources of information, even those that make me feel uncomfortable because they don't agree with me.  I have to find sources that are less likely to be biased, such as non-partisan institutions.  I have to recognize that what candidates and their supporters say can't always be trusted.  Spin-doctoring is everywhere, and what both “sides” say must be neither dismissed nor swallowed whole, but used as a springboard to research outside either party’s bubble. 
 
-The internet has made fact-checking easier, but it’s still hard work.  Yet, if my vote is an offering to God, it should be the best offering I can give.  I need to pray for God to teach me, and give me the stamina to see it through, and the courage to learn and let my mind changed.
+The internet has made fact-checking easier, but it’s still hard work.  Yet, if my vote is an offering to God, it should be the best offering I can give.  I need to pray for God to teach me, and give me the stamina to see it through, and the courage to learn and let my mind be changed.
 
 > Most important, live together in a manner worthy of Christ’s gospel...." --Philippians 1:27 (CEB)
 
