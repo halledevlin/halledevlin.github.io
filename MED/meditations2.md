@@ -21,6 +21,7 @@ The following notes are important to getting the most out of these meditations:
 * [Meditation on John 4:  The Woman at the Well](john_4.html)
 * [Meditation on II Kings 22 - 23:  King Josiah](kings_22.html)
 * [Meditation on Hebrews 8:  Writing on My Heart](hebrews_8.html)
+* [Voting Is Worship](voting.html)
  
    
 
