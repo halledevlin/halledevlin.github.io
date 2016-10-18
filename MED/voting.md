@@ -1,7 +1,10 @@
 ---
-title: Voting as Worship 
+title: Voting Is Worship 
 layout: default
 ---
+
+Voting Is Worship
+=================
 
 > This is my prayer: that your love might become even more and more rich with knowledge and all kinds of insight. I pray this so that you will be able to decide what really matters and so you will be sincere and blameless on the day of Christ.  --[Philippians 1:9-10](https://www.biblegateway.com/passage/?search=phillipians+1&version=CEB) (CEB)
 
