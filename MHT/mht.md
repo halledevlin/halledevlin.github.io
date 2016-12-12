@@ -14,7 +14,7 @@ navrank: 02
 
 <img style="float: left;" alt="Toad drinking water droplets" src="/images/frog-water-droo2-50percent.jpg" width="200px"/>
 
-Miss Harter's Toad is the endearing true story of how a stow-away toad changed everything in the 3rd-grade classroom of one Miss Harter.  Whimsically illustrated, this tale is set in Dayton, Ohio, where author, illustrator, and publisher all reside. 
+Miss Harter's Toad is the endearing true story of how a stow-away toad changed everything in the 3rd-grade classroom of one Miss Harter.  Whimsically illustrated, this tale is set in Dayton, Ohio, where author, illustrator, and publisher all reside.  We expect it to be available online and in local Dayton bookstores in early 2017.
 
 <p class="nofloat" />
 
