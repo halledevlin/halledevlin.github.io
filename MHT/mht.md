@@ -7,9 +7,7 @@ navrank: 02
 <h2>Miss Harter's Toad</h2>
 <h3><i>***coming out soon***</i></h3>
 
-<img style="float: left;" alt="Toad drinking water droplets" src="/images/frog-water-droo2-50percent.jpg" width="300px"/>
-
-<p class="nofloat" />
+<img style="float: right;" alt="Pot of begonias" src="/images/pot-solo-50percent.jpg" width="100px"/>
 
 <img style="float: left;" alt="Toad drinking water droplets" src="/images/frog-water-droo2-50percent.jpg" width="300px"/>
 
