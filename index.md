@@ -12,6 +12,8 @@ Christie writes in a wide range of genres, from the inspirational to the fantast
 
 A children's book about a stow-away toad, a kid with problems in school, and the teacher who brought them together. 
 
+<p class="nofloat" />
+
 <img style="margin: 10px; float: left;" alt="Me and Curly" src="images/mevscurlyfix.jpg" width="300px"/>
 
 ## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](GIAH/giah.html)
