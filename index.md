@@ -10,7 +10,7 @@ Christie writes in a wide range of genres, from the inspirational to the fantast
 
 ## [Miss Harter's Toad](MHT/mht.html)
 
-A children's book about a stowaway toad, a kid with problems in school, and the teacher who brought them together. 
+A true story for children about a stowaway toad, a kid with problems in school, and the teacher who brought them together. 
 
 <p class="nofloat" />
 
