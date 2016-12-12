@@ -6,6 +6,12 @@ navrank: 01
 
 Christie writes in a wide range of genres, from the inspirational to the fantastic.  Here's what she's working on these days:
 
+<img style="margin: 10px; float: left;" alt="Miss Harter's Toad Cover Picture" src="cover-50percent.jpg" width="300px"/>
+
+## [Miss Harter's Toad](MHT/mht.html)
+
+A children's book about a stow-away toad, a kid with problems in school, and the teacher who brought them together. 
+
 <img style="margin: 10px; float: left;" alt="Me and Curly" src="images/mevscurlyfix.jpg" width="300px"/>
 
 ## [God is a Horseman: About Horses and Horsemen, and Horsemen and God](GIAH/giah.html)
