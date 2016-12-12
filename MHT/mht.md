@@ -16,4 +16,4 @@ navrank: 02
 
 Miss Harter's Toad is the endearing true story of how a stow-away toad changed everything in the 3rd-grade classroom of one Miss Harter.  Whimsically illustrated, this tale is set in Dayton, Ohio, where author, illustrator, and publisher all reside. 
 
-<img style="float: center;" alt="Boy looking at Toad" src="/images/willlooiknasd-50percent.jpg" width="300px"/>
+<img style="margin-left: auto; margin-right:auto;" alt="Boy looking at Toad" src="/images/willlooiknasd-50percent.jpg" width="300px"/>
