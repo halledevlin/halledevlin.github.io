@@ -6,7 +6,7 @@ navrank: 01
 
 Christie writes in a wide range of genres, from the inspirational to the fantastic.  Here's what she's working on these days:
 
-<img style="margin: 10px; float: left;" alt="Miss Harter's Toad Cover Picture" src="cover-50percent.jpg" width="300px"/>
+<img style="margin: 10px; float: left;" alt="Miss Harter's Toad Cover Picture" src="images/cover-50percent.jpg" width="300px"/>
 
 ## [Miss Harter's Toad](MHT/mht.html)
 

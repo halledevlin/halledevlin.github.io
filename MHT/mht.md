@@ -4,8 +4,8 @@ layout: dateless_post
 navrank: 02
 ---
 
-<h2>Miss Harter's Toad
-<h3><i>***coming out soon***
+<h2>Miss Harter's Toad</h2>
+<h3><i>***coming out soon***</i></h3>
 
 <img style="float: left;" alt="Toad drinking water droplets" src="/images/frog-water-droo2-50percent.jpg" width="300px"/>
 
