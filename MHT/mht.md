@@ -18,4 +18,4 @@ Miss Harter's Toad is the endearing true story of how a stow-away toad changed e
 
 <p class="nofloat" />
 
-<img style="margin-left: auto; margin-right:auto;" alt="Toad hopping under tree" src="/images/1-50percent.jpg" width="300px"/>
+<img style="margin-left: auto; margin-right:auto;" alt="Toad hopping under tree" src="/images/1-50percent.jpg" width="500px"/>
