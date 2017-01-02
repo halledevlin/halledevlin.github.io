@@ -75,10 +75,10 @@ P.S.:  In case you're interested in finding out more about Thule or asteroids in
 - [http://en.wikipedia.org/wiki/Hilda_family](http://en.wikipedia.org/wiki/Hilda_family)
 
 <h4>Asteroids in General:</h4>
-- [http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png](http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png)
-- [http://www.nasa.gov/worldbook/asteroid_worldbook.html](http://www.nasa.gov/worldbook/asteroid_worldbook.html)
-- [http://www.astronomyexpert.co.uk/AsteroidBelt.html](http://www.astronomyexpert.co.uk/AsteroidBelt.html)
-- [http://library.thinkquest.org/18652/asteroid.html](http://library.thinkquest.org/18652/asteroid.html)
+[http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png](http://commons.wikimedia.org/wiki/File:Asteroid_Belt-is.png)
+[http://www.nasa.gov/worldbook/asteroid_worldbook.html](http://www.nasa.gov/worldbook/asteroid_worldbook.html)
+[http://www.astronomyexpert.co.uk/AsteroidBelt.html](http://www.astronomyexpert.co.uk/AsteroidBelt.html)
+[http://library.thinkquest.org/18652/asteroid.html](http://library.thinkquest.org/18652/asteroid.html)
 
 <h4>D-type asteroids:</h4>
 - [http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920001612_1992001612.pdf](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19920001612_1992001612.pdf)
