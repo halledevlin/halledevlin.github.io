@@ -16,6 +16,6 @@ navrank: 02
 
 Miss Harter's Toad is the endearing true story of how a stowaway toad changed everything in the 3rd-grade classroom of one Miss Harter.  This whimsical illustrated tale is perfect for 2nd and 3rd grade readers, or to be read to children of any age.   It is a completely local product - the author, illustrator, and publisher all call the Dayton, Ohio area home.  We expect it to be available online and in Dayton-area bookstores in early 2017.  Check back here for links!
 
-And to give credit where credit is due, the lovely illustrations on this page, as well as in the book were drawn, by Tyler Mackey working with [Mr. Fox Studios](www.mrfoxstudios.com).
+And to give credit where credit is due, the lovely illustrations on this page as well as in the book were drawn by Tyler Mackey, working with [Mr. Fox Studios](www.mrfoxstudios.com).
 
 <img style="margin-left: auto; margin-right:auto;" alt="Boy looking at toad" src="/images/willlooiknasd-50percent.jpg" width="500px"/>
