@@ -14,6 +14,6 @@ navrank: 02
 
 <img style="float: left;" alt="Toad drinking water droplets" src="/images/frog-water-droo2-50percent.jpg" width="200px"/>
 
-Miss Harter's Toad is the endearing true story of how a stowaway toad changed everything in the 3rd-grade classroom of one Miss Harter.  This whimsically illustrated tale is perfect for 2nd and 3rd grade readers, or to be read to children of any age.   It is a completely local product, as the author, illustrator, and publisher all calling the Dayton, Ohio area home.  We expect it to be available online and in Dayton-area bookstores in early 2017.  Check back here for links!
+Miss Harter's Toad is the endearing true story of how a stowaway toad changed everything in the 3rd-grade classroom of one Miss Harter.  This whimsical illustrated tale is perfect for 2nd and 3rd grade readers, or to be read to children of any age.   It is a completely local product, as the author, illustrator, and publisher all calling the Dayton, Ohio area home.  We expect it to be available online and in Dayton-area bookstores in early 2017.  Check back here for links!
 
 <img style="margin-left: auto; margin-right:auto;" alt="Boy looking at toad" src="/images/willlooiknasd-50percent.jpg" width="500px"/>
