@@ -13,5 +13,5 @@ Curious about my birthmark?  Here's a site nice site with good information:  [ht
 For me, my birthmark is part of my identity, what makes me special:  A kiss from God.  Where has he kissed you?
 
 Curious about LGBT issues and Christianity?  Here's a great podcast which, I feel, provides a good discussion:
-[http://www.theliturgists.com/podcast/2015/5/18/episode-20-lgbtq] (http://www.theliturgists.com/podcast/2015/5/18/episode-20-lgbtq)
+[http://www.theliturgists.com/podcast/2015/5/18/episode-20-lgbtq](http://www.theliturgists.com/podcast/2015/5/18/episode-20-lgbtq)
 
