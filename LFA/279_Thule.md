@@ -65,10 +65,10 @@ In the end, we read science fiction to go to places *out there,* places we could
 P.S.:  In case you're interested in finding out more about Thule or asteroids in general, here's a list of places where I found much of the above information, and more:
 
 <h4>279 Thule:</h4>
-<a href="http://en.wikipedia.org/wiki/279_Thule">Wikipedia's page on Thule</a>
-<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2008.13764.x/abstract;jsessionid=828F55B9D37217002B45C7FB20855CDB.d03t04">Scientific Journal article on Thule</a>]
-<a href="http://adsabs.harvard.edu/full/1990RMxAA..21..585T]"></a>
-<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=279">And my favorite:  NASA/JPL's small-body database page for Thule</a>](
+<a href="http://en.wikipedia.org/wiki/279_Thule">Wikipedia's page on Thule</a> <br/>
+<a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2966.2008.13764.x/abstract;jsessionid=828F55B9D37217002B45C7FB20855CDB.d03t04">Scientific Journal article on Thule</a> <br/>
+<a href="http://adsabs.harvard.edu/full/1990RMxAA..21..585T]"></a> <br/>
+<a href="http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=279">And my favorite:  NASA/JPL's small-body database page for Thule</a> <br/>
 
 <h4>153 Hilda:</h4>
 - [Wikipedia's page on Hilda](http://en.wikipedia.org/wiki/153_Hilda)
